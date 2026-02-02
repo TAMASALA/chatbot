@@ -1,0 +1,13 @@
+/* ONLY change background of entire page */
+body {
+    margin: 20px;
+    font-family: "Times New Roman", serif;
+
+    background-image: url("https://4kwallpapers.com/images/wallpapers/jasper-national-park-alberta-canada-morning-glow-purple-sky-4554.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    color: rgb(247, 239, 239); /* keep same text color as before */
+}
